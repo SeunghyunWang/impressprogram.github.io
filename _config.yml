@@ -1,0 +1,38 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md", "_config.yml", "LICENSE"] # files to exclude
+highlighter: rouge
+markdown: kramdown
+disqus: impressprogram
+google_analytics: UA-93474849-1
+title: IP's IT Blog
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: IP's IT Blog
+
+description: IT Blog - all about IT
+author:
+  name: impressprogram
+  email: impressprogram@gmail.com
+  github: impressprogram
+  twitter: impressprogram
+  linkedin: myeongsoo-kim-30938b137
+  bio: All about IT
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+# set it as url of an image
+# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+
+BASE_PATH:
+
+gems:
+  - jekyll-paginate
