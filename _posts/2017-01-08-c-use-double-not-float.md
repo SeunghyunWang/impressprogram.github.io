@@ -32,6 +32,7 @@ int main(int argc, const char * argv[]) {
 2147483520.000000
 2147483520.000000
 ```
+
 오차가 상당하죠?  
 float형은 10자리 넘어가면 정신을 못차립니다.  
 왜 정신을 못차리는지는 https://impressprogram.github.io/c/2017/01/05/how-to-express-float-in-c.html 에서 다루었습니다.  
