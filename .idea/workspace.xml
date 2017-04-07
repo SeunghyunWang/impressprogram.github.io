@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8abaffce-2db1-4e47-ab8f-664c0aa02116" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-02-27-c-for-datastructure.md" afterPath="$PROJECT_DIR$/_posts/2017-02-27-c-for-datastructure.md" />
-    </list>
+    <list default="true" id="8abaffce-2db1-4e47-ab8f-664c0aa02116" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -131,12 +129,12 @@
       <updated>1491526970439</updated>
       <workItem from="1491526972177" duration="220000" />
       <workItem from="1491527200641" duration="497000" />
-      <workItem from="1491546510786" duration="508000" />
+      <workItem from="1491546510786" duration="729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1225000" />
+    <option name="totallyTimeSpent" value="1446000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
