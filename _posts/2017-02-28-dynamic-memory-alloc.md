@@ -7,6 +7,7 @@ tags: [c, datastructure]
 fullview: true
 ---
 
+(부경 대학교 권오흠 교수님의 인강을 듣고 작성하는 포스팅)  
 ![mem_alloc](https://impressprogram.github.io/assets/media/mem_alloc.png)
 
 동적메모리 할당이라는 것은 변수를 선언하는 대신 프로그램의 요청으로 메모리를 할당 할 수 있도록 하는 것입니다.  
