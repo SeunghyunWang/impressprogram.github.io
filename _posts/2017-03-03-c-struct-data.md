@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: 문자열 토크나이징에 대한 이야기(c)
+title: 구조체의 장점(전화번호부 프로그램)
 categories: [datastructure]
 tags: [c, datastructure]
 fullview: true
